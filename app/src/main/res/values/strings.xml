@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Corruption Reporter</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="report_corruption">REPORT CORRUPTION</string>
+    <string name="get_information">Without strong watchdog institutions, impunity becomes the very foundation upon which systems of corruption are built. And if impunity is not demolished, all efforts to bring an end to corruption are in vain.  — Rigoberta Menchú, Nobel Prize laureate.</string>
+    <string name="stay_informed_about_corruption">CORRUPTION REPORTER</string>
+    <string name="title_activity_report_corruption">Report New Corruption</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_reported_corruption">Reported Cases</string>
+    <string name="save">SAVE REPORT</string>
+    <string name="description_hint">Description</string>
+    <string name="title_hint">Subject</string>
+    <string name="no_records_found">You currently have not reported any corruption cases. Use the button below to start!</string>
+    <string name="spinner_error_warning">Please select the correct option</string>
+    <string name="share_using">Share with ...</string>
+    <string name="camera">Camera</string>
+    <string name="record_corruption">RECORD AUDIO</string>
+    <string name="title_record_corruption_activity">Record Audio</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
